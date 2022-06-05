@@ -55,7 +55,7 @@ fig = plt.figure(figsize=(6, 4), facecolor='#1c1b1c')
 fig3 = plt.figure(figsize=(6, 4), facecolor='#ffffff')
 fig4 = plt.figure(figsize=(6, 4), facecolor='#ffffff')
 fig5 = plt.figure(figsize=(6, 4), facecolor='#ffffff')
-fig6 = plt.figure(figsize=(6, 4), facecolor='#ffffff')
+fig6 = plt.figure(figsize=(6, 4), facecolor='#000000')
 fig7 = plt.figure(figsize=(6, 4), facecolor='#ffffff')
 fig8 = plt.figure(figsize=(6, 4), facecolor='#ffffff')
 
