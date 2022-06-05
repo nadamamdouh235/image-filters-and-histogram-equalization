@@ -57,7 +57,7 @@ fig4 = plt.figure(figsize=(6, 4), facecolor='#1c1b1c')
 fig5 = plt.figure(figsize=(6, 4), facecolor='#1c1b1c')
 fig6 = plt.figure(figsize=(6, 4), facecolor='#1c1b1c')
 fig7 = plt.figure(figsize=(6, 4), facecolor='#1c1b1c')
-fig8 = plt.figure(figsize=(6, 4), facecolor='#1c1b1c')
+fig8 = plt.figure(figsize=(6, 4), facecolor='#000000')
 
 ax1 = fig.add_subplot()
 
